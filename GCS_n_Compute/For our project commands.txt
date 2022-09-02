@@ -1,0 +1,5 @@
+set GOOGLE_APPLICATION_CREDENTIALS=K:\ProjectPro\GCP-keys\auslander-7c778-8a4d116e797f.json
+
+
+
+gcloud auth activate-service-account svc2-rw@auslander-7c778.iam.gserviceaccount.com  --key-file=K:\ProjectPro\GCP-keys\auslander-7c778-8a4d116e797f.json --project=auslander-7c778
